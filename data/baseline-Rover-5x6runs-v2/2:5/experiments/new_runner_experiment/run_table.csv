@@ -1,0 +1,7 @@
+__run_id,__done,baseline,avg_current_amps,avg_supply_voltage,avg_power_watts
+run_0_repetition_0,DONE,True,0.701,15.773,11.165
+run_0_repetition_1,DONE,True,0.701,15.764,11.081
+run_0_repetition_2,DONE,True,0.717,15.755,11.476
+run_0_repetition_3,DONE,True,0.753,15.746,11.821
+run_0_repetition_4,DONE,True,0.743,15.74,11.681
+run_0_repetition_5,DONE,True,0.715,15.735,11.234
