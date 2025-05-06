@@ -1,0 +1,14 @@
+[30m 09:59[0m [1mINFO[0m [37m[controller] main.py:43[0m [36m>[0m [37m[09:59:45] EnergySensorOutput(supply_voltage=19.87125015258789, current_amps=0.4000000059604645, power_watts=7.949999809265137)[0m
+[30m 09:59[0m [1mINFO[0m [37m[controller] main.py:43[0m [36m>[0m [37m[09:59:46] EnergySensorOutput(supply_voltage=19.86750030517578, current_amps=0.414000004529953, power_watts=8.274999618530273)[0m
+[30m 09:59[0m [1mINFO[0m [37m[controller] main.py:43[0m [36m>[0m [37m[09:59:47] EnergySensorOutput(supply_voltage=19.86750030517578, current_amps=0.40299999713897705, power_watts=9.0)[0m
+[30m 09:59[0m [1mINFO[0m [37m[controller] main.py:43[0m [36m>[0m [37m[09:59:48] EnergySensorOutput(supply_voltage=19.863750457763672, current_amps=0.46399998664855957, power_watts=8.850000381469727)[0m
+[30m 09:59[0m [1mINFO[0m [37m[controller] main.py:43[0m [36m>[0m [37m[09:59:49] EnergySensorOutput(supply_voltage=19.861249923706055, current_amps=0.43299999833106995, power_watts=8.600000381469727)[0m
+[30m 09:59[0m [1mINFO[0m [37m[controller] main.py:43[0m [36m>[0m [37m[09:59:50] EnergySensorOutput(supply_voltage=19.861249923706055, current_amps=0.4390000104904175, power_watts=8.725000381469727)[0m
+[30m 09:59[0m [1mINFO[0m [37m[controller] main.py:43[0m [36m>[0m [37m[09:59:51] EnergySensorOutput(supply_voltage=19.868749618530273, current_amps=0.4230000078678131, power_watts=8.399999618530273)[0m
+[30m 09:59[0m [1mINFO[0m [37m[controller] main.py:43[0m [36m>[0m [37m[09:59:52] EnergySensorOutput(supply_voltage=19.864999771118164, current_amps=0.4300000071525574, power_watts=8.550000190734863)[0m
+[30m 09:59[0m [1mINFO[0m [37m[controller] main.py:43[0m [36m>[0m [37m[09:59:53] EnergySensorOutput(supply_voltage=19.87125015258789, current_amps=0.414000004529953, power_watts=8.225000381469727)[0m
+[30m 09:59[0m [1mINFO[0m [37m[controller] main.py:43[0m [36m>[0m [37m[09:59:54] EnergySensorOutput(supply_voltage=19.868749618530273, current_amps=0.4129999876022339, power_watts=8.199999809265137)[0m
+[30m 09:59[0m [1mINFO[0m [37m[controller] main.py:43[0m [36m>[0m [37m[09:59:55] EnergySensorOutput(supply_voltage=19.872499465942383, current_amps=0.4000000059604645, power_watts=7.949999809265137)[0m
+[30m 09:59[0m [1mINFO[0m [37m[controller] main.py:43[0m [36m>[0m [37m[09:59:56] EnergySensorOutput(supply_voltage=19.8700008392334, current_amps=0.414000004529953, power_watts=8.225000381469727)[0m
+[30m 09:59[0m [1mINFO[0m [37m[controller] main.py:43[0m [36m>[0m [37m[09:59:57] EnergySensorOutput(supply_voltage=19.8700008392334, current_amps=0.42399999499320984, power_watts=8.449999809265137)[0m
+[30m 09:59[0m [1mINFO[0m [37m[controller] main.py:43[0m [36m>[0m [37m[09:59:58] EnergySensorOutput(supply_voltage=19.863750457763672, current_amps=0.42800000309944153, power_watts=8.524999618530273)[0m
