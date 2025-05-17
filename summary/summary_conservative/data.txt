@@ -1,0 +1,26 @@
+Imaging:
+
+
+CPU Min: 45
+CPU Max: 52
+Soc Min: 45
+Soc Max: 53
+Avg temp: Soc, CPU: 48.7, 48.29
+Avg energy consumption (experiment) / all runs: 7.52 W
+Avg current consumption (experiment): 0.48 W
+Delta battery consumption (experiment): approx. [IMG] V_start: 16.066 V   V_end: 15.624 V   Drop: 0.442 V
+
+
+
+
+Idle:
+
+
+CPU Min: 45
+CPU Max: 51
+Soc Min: 45
+Soc Max: 51
+Avg temp: Soc, CPU: 48.04, 47.83
+Avg energy consumption (experiment) / all runs: 6.69 W
+Avg current consumption (experiment): 0.41 W
+Delta battery consumption (experiment): approx. [IDLE] V_start: 16.693 V   V_end: 16.302 V   Drop: 0.390 V
