@@ -2,7 +2,6 @@ Running for 2285.0 seconds (4570 samples at 0.5 second intervals).
 Power measurements will start in 0 seconds time.
 
   Time    User  Nice   Sys  Idle    IO  Run Ctxt/s  IRQ/s  Watts  soc-th cpu-th
-12:22:48   0.0   0.0   0.5  99.5   0.0    2    150    148   0.00E  45.00  45.00
 12:22:49   0.0   0.0   0.5  99.5   0.0    1     52     80   0.00E  45.00  45.00
 12:22:49   0.5   0.0   0.0  99.5   0.0    1    422    256   0.00E  45.00  45.00
 12:22:50   3.0   0.0   7.1  86.9   3.0    1  25102  16406   0.00E  45.00  45.00

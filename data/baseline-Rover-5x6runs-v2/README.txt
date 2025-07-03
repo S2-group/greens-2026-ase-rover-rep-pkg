@@ -1,1 +1,0 @@
-This run has a run time of 15.8 seconds

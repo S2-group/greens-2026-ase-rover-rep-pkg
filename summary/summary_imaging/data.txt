@@ -12,7 +12,7 @@ Delta battery consumption (experiment): approx. [IMG] V_start: 16.300 V   V_end:
 
 
 
-Imaging 160x80:
+Imaging 160x120:
 
 
 CPU Min: 45
