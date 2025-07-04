@@ -23,7 +23,7 @@ This thesis aims to assess and improve the current energy consumption patterns o
      |
      |--- experiment-runner/               Scripts for running the experiments, including all of the energy results
      |
-     |--- modified_services/               Two serviced that handle different parameters compared to the default ones
+     |--- modified_services/               Two services that handle different parameters compared to the default ones
      |
      |--- summary_and_plots/               Detailed summaries of results and plots used in the paper
 
