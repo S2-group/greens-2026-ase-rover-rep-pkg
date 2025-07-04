@@ -4,9 +4,9 @@
 
 ### This project contributes to the ASE Labs at Vrije Universiteit Amsterdam by assessing and improving the energy consumption of the ASE/Rover, a battery-powered autonomous vehicle built to perform in racing competitions. 
 
-> Author: Ambra Mihu
-> First supervisor: Ivano Malavolta
-> Second reader: Vincenzo Stoico
+> Author: Ambra Mihu \\
+> First supervisor: Ivano Malavolta \\
+> Second reader: Vincenzo Stoico \\
 
 This repository is a companion package for the bachelor thesis project.
 
@@ -19,9 +19,9 @@ This thesis aims to assess and improve the current energy consumption patterns o
      |
      |--- analysis_notebooks/              The two notebooks containing data analysis
      |
-     |--- data/                            Used data in this study
+     |--- data/                            Data that was used in this study
      |
-     |--- experiment-runner/                Scripts for running the experiments, including all of the energy results
+     |--- experiment-runner/               Scripts for running the experiments, including all of the energy results
      |
      |--- modified_services/               Two serviced that handle different parameters compared to the default ones
      |
