@@ -16,9 +16,7 @@ This thesis aims to assess and improve the current energy consumption patterns o
 
     ASE/Rover-energy-consumption-replication-package
      .
-     |
-     |--- analysis_notebooks/              The two notebooks containing data analysis
-     |
+     |     
      |--- data/                            Data that was used in this study
      |
      |--- experiment-runner/               Scripts for running the experiments, including all of the energy results
@@ -26,3 +24,18 @@ This thesis aims to assess and improve the current energy consumption patterns o
      |--- modified_services/               Two serviced that handle different parameters compared to the default ones
      |
      |--- summary_and_plots/               Detailed summaries of results and plots used in the paper
+
+
+## Setup
+
+1. Clone this repository:
+`git clone https://github.com/ambra19/ASE-Rover-energy-consumption-replication-package.git`
+
+2. Create a virtual environment:
+`python3 -m venv venv`
+`source venv/bin/activate` 
+
+3. Install the dependencies:
+`pip install -r requirements.txt`
+
+The jupyter notebooks should now be able to load the cells. 
