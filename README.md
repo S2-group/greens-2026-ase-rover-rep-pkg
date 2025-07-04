@@ -4,9 +4,11 @@
 
 ### This project contributes to the ASE Labs at Vrije Universiteit Amsterdam by assessing and improving the energy consumption of the ASE/Rover, a battery-powered autonomous vehicle built to perform in racing competitions. 
 
-> Author: Ambra Mihu \\
-> First supervisor: Ivano Malavolta \\
-> Second reader: Vincenzo Stoico \\
+> Author: Ambra Mihu 
+
+> First supervisor: Ivano Malavolta 
+
+> Second reader: Vincenzo Stoico 
 
 This repository is a companion package for the bachelor thesis project.
 
@@ -28,14 +30,35 @@ This thesis aims to assess and improve the current energy consumption patterns o
 
 ## Setup
 
-1. Clone this repository:
-`git clone https://github.com/ambra19/ASE-Rover-energy-consumption-replication-package.git`
+**Clone this repository:**
 
-2. Create a virtual environment:
-`python3 -m venv venv`
-`source venv/bin/activate` 
+```bash
+git clone https://github.com/ambra19/ASE-Rover-energy-consumption-replication-package.git
+cd ASE-Rover-energy-consumption-replication-package
+```
 
-3. Install the dependencies:
-`pip install -r requirements.txt`
+---
 
-The jupyter notebooks should now be able to load the cells. 
+**Create a virtual environment:**
+
+```bash
+python3 -m venv venv
+```
+
+Activate it:
+
+```bash
+source venv/bin/activate
+```
+
+---
+
+**Install the dependencies:**
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+The Jupyter notebooks should now be able to load and run the cells without issues.
