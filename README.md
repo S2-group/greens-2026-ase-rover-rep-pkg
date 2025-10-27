@@ -1,18 +1,11 @@
 # Assessing and Improving the Energy Efficiency of an Autonomous Rover
 
-## Research project submitted under the requirements for the degree of Bachelor of Science in Computer Science at the Vrije Universiteit Amsterdam. 
+### This study contributes to the ASE Labs at Vrije Universiteit Amsterdam by assessing and improving the energy consumption of the ASE/Rover, a battery-powered autonomous vehicle built to perform in racing competitions. 
 
-### This project contributes to the ASE Labs at Vrije Universiteit Amsterdam by assessing and improving the energy consumption of the ASE/Rover, a battery-powered autonomous vehicle built to perform in racing competitions. 
+> Main contact: Ambra Mihu 
+> Second contact: Ivano Malavolta 
 
-> Author: Ambra Mihu 
-
-> First supervisor: Ivano Malavolta 
-
-> Second reader: Vincenzo Stoico 
-
-This repository is a companion package for the bachelor thesis project.
-
-This thesis aims to assess and improve the current energy consumption patterns of the ASE rover, under different operational conditions, propose two targeted interventions (CPU governor adjustments and imaging resolution scaling) to improve efficiency, and evaluate their impact through systematic experimentation and analysis.
+This study aims to assess and improve the current energy consumption patterns of the ASE rover, under different operational conditions, propose two targeted interventions (CPU governor adjustments and imaging resolution scaling) to improve efficiency, and evaluate their impact through systematic experimentation and analysis.
 
 ## Repository structure
 
@@ -33,8 +26,8 @@ This thesis aims to assess and improve the current energy consumption patterns o
 **Clone this repository:**
 
 ```bash
-git clone https://github.com/ambra19/ASE-Rover-energy-consumption-replication-package.git
-cd ASE-Rover-energy-consumption-replication-package
+git clone https://github.com/s2-group/greens-2026-ase-rover-rep-pkg.git
+cd greens-2026-ase-rover-rep-pkg
 ```
 
 ---
