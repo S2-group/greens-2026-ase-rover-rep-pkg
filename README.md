@@ -2,7 +2,8 @@
 
 ### This study contributes to the ASE Labs at Vrije Universiteit Amsterdam by assessing and improving the energy consumption of the ASE/Rover, a battery-powered autonomous vehicle built to perform in racing competitions. 
 
-> Main contact: Ambra Mihu 
+> Main contact: Ambra Mihu
+> 
 > Second contact: Ivano Malavolta 
 
 This study aims to assess and improve the current energy consumption patterns of the ASE rover, under different operational conditions, propose two targeted interventions (CPU governor adjustments and imaging resolution scaling) to improve efficiency, and evaluate their impact through systematic experimentation and analysis.
